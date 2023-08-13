@@ -1,16 +1,23 @@
-### Hi there 👋
+#  Hi 👋, i'm Anurag Thakur
 
-<!--
-**AnuragThakur06/AnuragThakur06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
 
-Here are some ideas to get you started:
+- Email: anuragthakur383@gmail.com
+- Phone: 8668592139
+- LinkedIn: [linkedin.com/in/anurag--thakur](https://www.linkedin.com/in/anurag--thakur)
+- Instagram: [instagram.com/_anurag._thakur](https://instagram.com/_anurag._thakur?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+
+I am a BTech student in my 7th semester, passionate about enhancing my knowledge and interpersonal skills. My interests lie in the field of science, and I'm always eager to learn new things.
+
+## Education
+
+- B.Tech: Computer Engineering
+  - Bharati Vidyapeeth Deemed University College of Engineering, Pune
+## Skills
+
+- Web Development: HTML, CSS, Bootstrap, JavaScript
+- Backend: FastAPI, Python
+- Tools: Git, ChatGPT, Bard
