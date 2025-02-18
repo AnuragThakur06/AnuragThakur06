@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a BTech student in my 7th semester, passionate about enhancing my knowledge and interpersonal skills. My interests lie in the field of science, and I'm always eager to learn new things.
+I am a BTech Computer Engineer, passionate about enhancing my knowledge and interpersonal skills. My interests lie in the field of science, and I'm always eager to learn new things.
 
 ## Education
 
